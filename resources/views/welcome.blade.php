@@ -69,7 +69,7 @@ h2{
 
   <!-- The Band Section -->
   <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="band">
-    <img src="profile.jpg" alt="profile" style="width:10%" class="w3-hover-opacity">
+    <img src="./profile.jpg" alt="profile" style="width:10%" class="w3-hover-opacity">
     <h2 class="w3-wide w3-center"  style="font-size:70px;">JEWELL ESTILLORE</h2>
     <p class="w3-opacity"><i>LA UNION, PHILIPPINES</i></p>
     <p class="w3-opacity" >Hello! I’m Jewell, a passionate graphic designer and video editor. With a keen eye for detail and a love for visual storytelling, I specialize in creating compelling visuals that captivate and engage audiences. Proficient in Adobe After Effects and Adobe Photoshop, I bring creative ideas to life, whether it’s through stunning graphics or dynamic video content.</p>
